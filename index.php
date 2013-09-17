@@ -7,6 +7,7 @@
    	<meta name="description" content="Technology solutions engineer and all around good guy who likes to ride bikes.">
    	<meta name="keywords" content="">
    	<meta name="author" content="Luke Edward Ollett">
+   	<meta name="google-site-verification" content="IbSc5mKvetsn16enIzM0RDQrgnt1RZ4Nf6H9dJAO7dM" />
 
 	<head profile="http://www.w3.org/2005/10/profile">
 	<link rel="icon" type="image/png" href="/img/favicon.ico">
