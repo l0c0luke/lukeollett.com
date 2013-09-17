@@ -41,13 +41,13 @@
 <body>
 
 <div class="container">
-	<div class="row">
+	<div class="row" itemscope itemtype="http://data-vocabulary.org/Person">
 		<div class="row">
 			<div class="col-md-2">
-				<img style="width: 100%;" src="/img/guapo.jpg" class="img-rounded">
+				<img itemprop="photo" style="width: 100%;" src="/img/guapo.jpg" class="img-rounded">
 			</div>
 			<div class="col-md-10">
-				<div class="big-title">Luke Edward Ollett</div>
+				<div class="big-title" itemprop="name">Luke Edward Ollett</div>
 				<p class="lead">
 					<i class="icon-envelope-alt icon-fixed-width"></i> <a href="mailto: ollett@gmail.com">ollett@gmail.com</a>
 					<i class="icon-phone icon-fixed-width" style="margin-left: 25px;"></i> 949.371.5292
@@ -188,7 +188,7 @@
 		    <p><i class="icon-trophy icon-fixed-width"></i> I regularly race my bicycle over 100km averaging 42km/h. I have won races in three continents.</p>
 		    <p><i class="icon-food icon-fixed-width"></i> I have organized and cooked for 70 person dinners.</p>
 		    <p><i class="icon-check icon-fixed-width"></i> I scored a 690 on the GMAT examination with a perfect score in math and arithmetic.</p>
-		    <p><i class="icon-bullhorn icon-fixed-width"></i> I have a blog <a href="http://ourthursday.com">www.OurThursday.com</a> and we regularly do public blog readings.</p>
+		    <p><i class="icon-bullhorn icon-fixed-width"></i> I have a blog <a itemprop="url" href="http://ourthursday.com">www.OurThursday.com</a> and we regularly do public blog readings.</p>
 		    <p><i class="icon-beer icon-fixed-width"></i> I am in the Phi Kappa Psi fraternity.</p>
 		    <p><i class="icon-male icon-fixed-width"></i> I have climbed a mountain in Bolivia that was over 20k feet high.</p>
 		    <p><i class="icon-rocket icon-fixed-width"></i> I am a dual citizen holding passports from the United Kingdom and the United States.</p>
