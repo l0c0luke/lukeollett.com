@@ -48,9 +48,9 @@
 		<div class="col-md-10">
 			<div class="big-title" itemprop="name">Luke Edward Ollett</div>
 			<p class="lead">
-				<i class="icon-envelope-alt icon-fixed-width"></i> <a href="mailto: ollett@gmail.com">ollett@gmail.com</a>
+				<i class="icon-envelope-alt icon-fixed-width"></i> <a target="_blank" href="mailto: ollett@gmail.com">ollett@gmail.com</a>
 				<i class="icon-phone icon-fixed-width" style="margin-left: 25px;"></i> 949.371.5292
-				<i class="icon-linkedin icon-fixed-width" style="margin-left: 25px;"></i> <a href="www.linkedin.com/in/lukeollett/">linkedin.com/in/lukeollett/</a>
+				<i class="icon-linkedin icon-fixed-width" style="margin-left: 25px;"></i> <a target="_blank" href="http://linkedin.com/in/lukeollett/">linkedin.com/in/lukeollett/</a>
 			</p>
 		</div>
 	</div>
