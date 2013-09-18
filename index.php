@@ -79,7 +79,7 @@
 					<li>Build API to support both web and mobile clients.</li>
 					<li>Wowza Media Server to stream live content from phones to both web and other mobile phones.</li>
 					<li>Node.JS and Socket.IO server to provide instant communication to all the mobile and web clients.</li>
-					<li>Built the product to be able to receive $1mm funding.</li>
+					<li>Helped company raise $1mm funding.</li>
 					<li>Build scalable and fault tolerant systems with Amazon EC2</li>
 				</ul>
 			</address>
