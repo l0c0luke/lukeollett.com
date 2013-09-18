@@ -40,21 +40,21 @@
 
 <body>
 
-<div class="container">
-	<div class="row" itemscope itemtype="http://data-vocabulary.org/Person">
-		<div class="row">
-			<div class="col-md-2">
-				<img itemprop="photo" style="width: 100%;" src="/img/guapo.jpg" class="img-rounded">
-			</div>
-			<div class="col-md-10">
-				<div class="big-title" itemprop="name">Luke Edward Ollett</div>
-				<p class="lead">
-					<i class="icon-envelope-alt icon-fixed-width"></i> <a href="mailto: ollett@gmail.com">ollett@gmail.com</a>
-					<i class="icon-phone icon-fixed-width" style="margin-left: 25px;"></i> 949.371.5292
-				</p>
-			</div>
+<div class="container" itemscope itemtype="http://data-vocabulary.org/Person">
+	<div class="row">
+		<div class="col-md-2">
+			<img itemprop="photo" style="max-width: 100%;" src="/img/guapo.jpg" class="img-rounded">
 		</div>
-
+		<div class="col-md-10">
+			<div class="big-title" itemprop="name">Luke Edward Ollett</div>
+			<p class="lead">
+				<i class="icon-envelope-alt icon-fixed-width"></i> <a href="mailto: ollett@gmail.com">ollett@gmail.com</a>
+				<i class="icon-phone icon-fixed-width" style="margin-left: 25px;"></i> 949.371.5292
+				<i class="icon-linkedin icon-fixed-width" style="margin-left: 25px;"></i> <a href="www.linkedin.com/in/lukeollett/">linkedin.com/in/lukeollett/</a>
+			</p>
+		</div>
+	</div>
+	<div class="row" >
   		<div class="col-lg-8">
 			<h3 class="page-header"><i class="icon-usd icon-fixed-width"></i> Work Experience</h3>
 		    <address>
