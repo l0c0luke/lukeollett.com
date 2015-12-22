@@ -58,6 +58,18 @@
   		<div class="col-lg-8">
 			<h3 class="page-header"><i class="icon-usd icon-fixed-width"></i> Work Experience</h3>
 		    <address>
+		    	<strong>Someecards, Inc</strong> <a href="http://someecards.com">http://someecards.com</a><br>
+				<em>Software Developer - October 2013 to Current</em><br>
+				<ul>
+					<li>Complete build of CMS to manage cards and posts for the editing team using AngularJS and creating RESTful API.</li>
+					<li>Silex Framework with Doctrine ORM</li>
+					<li>Managing and migrating a 20 gig database</li>
+					<li>Phpunit tests for the backend and Selenium tests for AngularJS front end.
+					<li>SCRUM methodologies.</li>
+				</ul>
+			</address>
+
+		    <address>
 		    	<strong>Varuno Solutions</strong> <a href="http://varunosolutions.com">http://varunosolutions.com</a><br>
 				<em>Managing Director - 2008 to Current</em><br>
 				<ul>
@@ -170,8 +182,8 @@
   		<div class="col-lg-4">
   			<h4 class="page-header"><i class="icon-github-alt icon-fixed-width"></i> Nerd Technologies</h4>
 		    <ul>
-		    	<li>Master of PHP and CodeIgniter</li>
-		    	<li>Master Javascript and Node.JS and Socket.IO and JQuery</li>
+		    	<li>Master of PHP, Symfony, Silex, Doctrine, and CodeIgniter</li>
+		    	<li>Master Javascript, AngularJS, Node.JS, Socket.IO, and JQuery</li>
 		    	<li>JAVA, PERL, Objective C, Python, Ruby</li>
 		    	<li>Amazon EC2 Deployments</li>
 		    	<li>Asterisk VOIP System</li>
