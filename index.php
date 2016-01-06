@@ -77,12 +77,12 @@
                 <em>Managing Director - 2008 to Current</em><br>
                 <ul>
                     <li>Specializing in taking your idea or concept and helping you uderstand and execute 1) designing the product 2) architecting the software 3) implementing the software and 4) supporting the end goal through success</li>
-                    <li>Work with multi tiered development teams from Russia, Romania, Great Britain, Phillipines, and Ukraine</li>
+                    <li>Work with multi tiered development teams from Russia, Romania, Great Britain, Philippines, and Ukraine</li>
                     <li>Mobile development as well as responsive development to ensure your ideas work on all devices</li>
                     <li>Customized Wordpress Development</li>
                     <li>Voice Over IP office telephone installations using Asterisk.</li>
                     <li>Linux server administration.</li>
-                    <li>www.SugarCRM.com deployments. Help clients understand and adopt an online and more effecient way to manage their business using a bespoke customer relationship management implementation. PHP customizations and bespoke integrations into existing business systems.</li>
+                    <li>www.SugarCRM.com deployments. Help clients understand and adopt an online and more efficient way to manage their business using a bespoke customer relationship management implementation. PHP customizations and bespoke integrations into existing business systems.</li>
                 </ul>
             </address>
 
@@ -108,7 +108,7 @@
                     <li>Manage, implement, and support multiple software projects and their associated teams.</li>
                     <ul>
                         <li>GPS Daily Deals - Android Application, iOS, mobile web, Web</li>
-                        <li>Verizon applications. Available from the verizon market place.</li>
+                        <li>Verizon applications - Available from the Verizon market place.</li>
                     </ul>
                     <li>Administer two-tier server and database architecture for redundancy and replication.</li>
                     <li>PHP, HTML5, JS/CSS, MySQL, Android Java, Objective C</li>
@@ -135,7 +135,7 @@
                 <strong>IBM</strong> <a href="http://ibm.com">http://ibm.com</a><br>
                 <em>Change and Configuration Management Consultant - 2005 to 2008</em><br>
                 <ul>
-                    <li>I was the Bobs from Office Space. My job was to fly around the country each week so I could analyze and improve and implement the internal software and business processes and workflows of some of the worlds largest companies.</li>
+                    <li>I was the Bobs from Office Space. My job was to fly around the country each week so I could analyze and improve and implement the internal software and business processes and workflows of some of the world's largest companies.</li>
                     <li>Panasonic Avionics saved $10 million in one year after my deployment of their parts purchasing business process.</li>
                     <li>Daily Perl coding to automate the IBM Rational Change product.</li>
                     <li>Prepared week long training courses for classes of up to 30 students.</li>
