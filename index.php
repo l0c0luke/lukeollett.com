@@ -186,7 +186,7 @@
 
             <h4 class="page-header"><i class="icon-bolt icon-fixed-width"></i> Notable Achievements</h4>
             <ul>
-                <li>At IBM, my process improvements and modifications to large multi national companies helped build the Boeing 787, Airbus 787, entertainment system in your last flight, and a good chance the car you drive.</li>
+                <li>At IBM, my process improvements and modifications to large multi national companies helped build the Boeing 787, Airbus 380, entertainment system in your last flight, and a good chance the car you drive.</li>
                 <li>At TapThere, the unique product I built and conceptualized from scratch was able to raise over $1.5mm in under 12 months.</li>
                 <li>Working with Panasonic to save $10mm in a 12 month time frame through software development and process improvements as implemented and designed and taught by myself.</li>
                 <li>Teaching complicated technologies to a room full of Indians from New Jersey and a few weeks later to a room full of Japanese and Americans in Osaka, Japan.</li>
