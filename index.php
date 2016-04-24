@@ -196,7 +196,6 @@
             </ul>
 
             <h4 class="page-header"><i class="icon-question icon-fixed-width"></i> Did you know...</h4>
-            <p><i class="icon-money icon-fixed-width"></i> I recently built <a itemprop="url" href="http://incometastic.com" target="_blank">incometastic.com</a> over a weekend to learn new programming technologies and real estate.</p>
             <p><i class="icon-globe icon-fixed-width"></i> I have lived in England, California, Chile, Puerto Rico, and Argentina.</p>
             <p><i class="icon-trophy icon-fixed-width"></i> I regularly race my bicycle over 100km averaging 42km/h. I have won races on three continents.</p>
             <p><i class="icon-food icon-fixed-width"></i> I have organized and cooked for 70 person dinners.</p>
